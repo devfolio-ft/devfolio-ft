@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Feten Gueldich 👋
 
-<!--
-**Fatouna1/Fatouna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Information Systems and Management
 
-Here are some ideas to get you started:
+💻 Interested in Full-Stack Web Development, Artificial Intelligence and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Frontend:** React, JavaScript, HTML, CSS, Flutter
+- **Backend:** Java, Spring Boot, PHP, Laravel, Python
+- **Databases:** MySQL, Oracle SQL
+- **Tools:** Git, GitHub, VS Code, Selenium
+
+## 🚀 Featured Projects
+
+### SEO Analyzer – Full-Stack Project
+
+A web application for website SEO analysis, technical audits, performance dashboards and SEO reports.
+
+- ✅ **[Frontend – SEO Analyzer](https://github.com/Fatouna1/seo-analyzer)** — React, Vite, CoreUI
+- 🚧 **Backend – SEO Analyzer** — Java, Spring Boot, MySQL (coming soon)
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/) — Add your profile link here
