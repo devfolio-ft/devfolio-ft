@@ -20,7 +20,7 @@ A university final-year project developed during my internship at Systeo Digital
 
 A web application for SEO analysis, technical audits, performance dashboards and SEO reports.
 
-- ✅ **[Frontend – SEO Analyzer](https://github.com/Fatouna1/seo-analyzer)** – React, Vite, CoreUI
+- ✅ **[Frontend – SEO Analyzer](https://github.com/devfolio-ft/seo-analysis-frontend)** – React, Vite, CoreUI
 - 🚧 **Backend – SEO Analyzer** – Java, Spring Boot, MySQL (coming soon)
 
 ### Library Management – Mobile Application
