@@ -21,7 +21,7 @@ A university final-year project developed during my internship at Systeo Digital
 A web application for SEO analysis, technical audits, performance dashboards and SEO reports.
 
 - ✅ **[Frontend – SEO Analyzer](https://github.com/devfolio-ft/seo-analysis-frontend)** – React, Vite, CoreUI
-- 🚧 **Backend – SEO Analyzer** – Java, Spring Boot, MySQL (coming soon)
+- ✅ **[Backend – SEO Analyzer](https://github.com/devfolio-ft/seo-analysis-backend)** — Java, Spring Boot, MySQL
 
 ### Library Management – Mobile Application
 A Flutter and Firebase mobile application for managing library members and books.
